@@ -1,4 +1,4 @@
-## Hi there 👋
+## Whats up WORLD! 👋
 
 <!--
 **realmasterdaniel/realmasterdaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![roadmap.sh](https://roadmap.sh/card/tall/68792ddbd8402b4cbd007eaa?variant=dark)](https://roadmap.sh)
